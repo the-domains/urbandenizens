@@ -3,21 +3,21 @@ inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-08T02:12:49.795Z'
-dateModified: '2016-03-08T02:12:07.120Z'
+datePublished: '2016-03-08T02:18:21.187Z'
+dateModified: '2016-03-08T02:18:13.218Z'
 title: 'Digital/Analog | Design/Fabrication'
 author: []
+sourcePath: _posts/2016-03-08-digitalanalog-or-designfabrication.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-08-digitalanalog-or-designfabrication.md
-published: true
 url: digitalanalog-or-designfabrication/index.html
 _type: Blurb
 
